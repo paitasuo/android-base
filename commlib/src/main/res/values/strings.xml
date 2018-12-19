@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">commLib</string>
+
+    <string name="login_info_err">登录信息已失效</string>
+    <string name="exitApp">再按一次退出程序</string>
+
+
+    <string name="pull_ref">下拉刷新</string>
+    <string name="loading">正在加载</string>
+    <string name="rel_ref">松开刷新数据</string>
+    <string name="load_end">~到底啦~</string>
+    <string name="load_error">网络不给力，点击屏幕重试</string>
+    <string name="ref">刷新</string>
+
+
+
+
+
+    <string name="per_phone">应用依赖设备权限，应用正在请求权限</string>
+    <string name="per_camera_storage">应用依赖相机和文件权限，应用正在请求权限</string>
+    <string name="per_storage">应用依赖文件权限，应用正在请求权限</string>
+    <string name="per_contacts">应用依赖通讯录权限，应用正在请求权限</string>
+    <string name="per_loc">应用依赖定位权限，应用正在请求权限</string>
+    <string name="per_ask_agein">如果需要设置权限, 请前往设置进行权限的开启</string>
+    <string name="per_rejected">您已拒绝了权限</string>
+    <string name="per_go_now">现在就去</string>
+
+
+
+    <string name="confirm">确认</string>
+    <string name="cancel">取消</string>
+
+    <string name="pickerview_cancel">取消</string>
+    <string name="pickerview_submit">确定</string>
+    <string name="pickerview_year">年</string>
+    <string name="pickerview_month">月</string>
+    <string name="pickerview_day">日</string>
+    <string name="pickerview_hours">时</string>
+    <string name="pickerview_minutes">分</string>
+    <string name="pickerview_seconds">秒</string>
+
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="commDialogStyle_nobg" parent="android:Theme.Dialog">
+        <!--背景颜色-->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <!-- 对话框是否有遮盖 -->
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <!--是否有灰色背景-->
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+
+    <style name="commDialogStyle" parent="android:Theme.Dialog">
+        <!--背景颜色-->
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <!-- 对话框是否有遮盖 -->
+        <item name="android:windowAnimationStyle">@android:style/Animation.Dialog</item>
+        <!--是否有灰色背景-->
+        <item name="android:backgroundDimEnabled">true</item>
+    </style>
+
+    <!-- Dialog进出动画 -->
+    <style name="commDialogAnimBottom" parent="android:Animation">
+        <item name="android:windowEnterAnimation">@anim/dialog_enter_bottom</item>
+        <item name="android:windowExitAnimation">@anim/dialog_exit_bottom</item>
+    </style>
+
+    <!-- Dialog进出动画 -->
+    <style name="commDialogAnimSide" parent="android:Animation">
+        <item name="android:windowEnterAnimation">@anim/dialog_enter_side</item>
+        <item name="android:windowExitAnimation">@anim/dialog_exit_side</item>
+    </style>
+
+    <style name="dialogFullscreenStyle" parent="android:Theme.Dialog">
+        <!--背景颜色-->
+        <item name="android:windowFullscreen">true</item>
+    </style>
+</resources>

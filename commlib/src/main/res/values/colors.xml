@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_333333">#333333</color>
+    <color name="color_000000">#000000</color>
+    <color name="color_c0c0c0">#c0c0c0</color>
+    <color name="color_999999">#999999</color>
+    <color name="color_c8c8c8">#c8c8c8</color>
+    <color name="color_fafafa">#fafafa</color>
+    <color name="color_d9d9d9">#d9d9d9</color>
+    <color name="color_white">#ffffff</color>
+    <color name="color_fefefe">#fefefe</color>
+    <color name="color_838383">#838383</color>
+    <color name="color_f5f5f5">#f5f5f5</color>
+    <color name="color_f3f3f3">#f3f3f3</color>
+    <color name="color_ffffff_30a">#4Dffffff</color>
+
+    <color name="color_313131">#69313131</color>
+
+    <color name="read_theme_white">#ffffff</color>
+    <color name="read_theme_night">#000000</color>
+    <!--章节标题夜间颜色-->
+    <color name="chapter_title_night">#292929</color>
+    <!--章节内容夜间颜色-->
+    <color name="chapter_content_night">#444444</color>
+    <!--章节标题日间颜色-->
+    <color name="chapter_title_day">#837B63</color>
+    <!--章节内容夜间颜色-->
+    <color name="chapter_content_day">#3B3220</color>
+    <!--阅读页顶部字体颜色-->
+    <color name="book_read_top_text">#D1D1D1</color>
+    <!--阅读页底部字体颜色-->
+    <color name="book_read_bottom_text">#e6e6e6</color>
+
+    <color name="color_420071ce">#420071ce</color>
+    <color name="color_0071ce">#0071ce</color>
+    <color name="color_eaeaea">#eaeaea</color>
+
+    <color name="color_4d333333">#4d333333</color>
+
+
+
+
+    <color name="pickerview_timebtn_nor">#057dff</color>
+    <color name="pickerview_timebtn_pre">#c2daf5</color>
+    <color name="pickerview_bg_topbar">#f5f5f5</color>
+    <color name="pickerview_topbar_title">#000000</color>
+    <color name="pickerview_wheelview_textcolor_out">#a8a8a8</color>
+    <color name="pickerview_wheelview_textcolor_center">#2a2a2a</color>
+    <color name="pickerview_wheelview_textcolor_divider">#d5d5d5</color>
+
+    <!--夜间颜色-->
+    <color name="color_191919">#191919</color>
+    <color name="color_666666">#666666</color>
+    <color name="color_6a6a6a">#6a6a6a</color>
+    <color name="color_800071ce">#800071ce</color>
+    <color name="color_eeeeee">#eeeeee</color>
+    <color name="color_dd4646">#dd4646</color>
+    <color name="color_ddd7e3">#ddd7e3</color>
+    <color name="color_d9eeff">#d9eeff</color>
+    <color name="color_cad5cf">#cad5cf</color>
+    <color name="color_818383">#818383</color>
+    <color name="color_f4f4f4">#f4f4f4</color>
+    <color name="color_d9d9d9_50a">#80d9d9d9</color>
+
+    <!--覆盖颜色-->
+    <color name="bgColor_overlay">#60000000</color>
+
+    <color name="color_dc0303">#dc0303</color>
+    <color name="color_a4acc1">#a4Acc1</color>
+    <color name="color_f3f5f7">#f3f5f7</color>
+    <color name="color_4b4b4b">#4b4b4b</color>
+    <color name="color_343434">#343434</color>
+    <color name="color_cba36c">#cba36c</color>
+    <color name="color_987545">#987545</color>
+
+</resources>

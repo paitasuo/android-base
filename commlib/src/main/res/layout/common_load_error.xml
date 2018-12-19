@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ly_defult"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <ImageView
+        android:id="@+id/ic_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="77dp"
+        android:background="@mipmap/no_network"
+        android:contentDescription="@null" />
+
+    <TextView
+        android:id="@+id/tv_tips"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/ic_icon"
+        android:layout_marginTop="15dp"
+        android:gravity="center"
+        android:text="@string/load_error"
+        android:textColor="@color/color_343434"
+        android:textSize="15sp" />
+
+    <!--<Button-->
+        <!--android:id="@+id/tv_refresh"-->
+        <!--android:layout_width="144dp"-->
+        <!--android:layout_height="42dp"-->
+        <!--android:layout_below="@id/tv_tips"-->
+        <!--android:layout_centerHorizontal="true"-->
+        <!--android:background="@drawable/shape_corner_5_333333"-->
+        <!--android:gravity="center"-->
+        <!--android:text="@string/ref"-->
+        <!--android:textColor="@color/color_333333"-->
+        <!--android:textSize="18sp" />-->
+
+</RelativeLayout>
